@@ -1,4 +1,4 @@
-# Analytic BI Plateform — Plateforme d'Analytics
+<img width="1150" height="866" alt="monetisation page " src="https://github.com/user-attachments/assets/2190bf81-cde6-46eb-bc6f-7af66c8eca7a" /># Analytic BI Plateform — Plateforme d'Analytics
 
 >  · ISIMA 2026  · Raed Sioud
 > **Stack** : React 18 · Node.js / Express · PostgreSQL · Recharts
@@ -114,11 +114,21 @@ npm install
 npm run build
 NODE_ENV=production DATABASE_URL=<neon_url> npm start
 ```
-<img width="1460" height="836" alt="Capture d&#39;écran 2026-10-16 181935" src="https://github.com/user-attachments/assets/1a0de148-d717-47dc-86af-a19a9533a912" />
-
 ### Connexion
 
 | Champ | Valeur |
 |-------|--------|
 | Utilisateur | `admin` |
 | Mot de passe | `admin123` |
+Login page: 
+<img width="1460" height="836" alt="Capture d&#39;écran 2026-10-16 181935" src="https://github.com/user-attachments/assets/1a0de148-d717-47dc-86af-a19a9533a912" />
+Home page: 
+<img width="1160" height="862" alt="Home page " src="https://github.com/user-attachments/assets/7c35a558-2733-4cb2-8ddd-79d6eda62dee" />
+Monetisation page : 
+<img width="1150" height="866" alt="monetisation page " src="https://github.com/user-attachments/assets/2b39d63b-fa13-43fd-9eb4-d630ddc0f439" />
+Engagement page: 
+<img width="1157" height="866" alt="Capture d&#39;écran 2026-10-16 183707" src="https://github.com/user-attachments/assets/f077e859-e2d8-4df3-8529-469f57d01814" />
+Support client page : 
+<img width="1160" height="866" alt="Capture d&#39;écran 2026-10-16 183636" src="https://github.com/user-attachments/assets/6a020342-86f3-4e11-926c-a24a5ed4e965" />
+
+
