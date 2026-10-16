@@ -114,6 +114,7 @@ npm install
 npm run build
 NODE_ENV=production DATABASE_URL=<neon_url> npm start
 ```
+<img width="1460" height="836" alt="Capture d&#39;écran 2026-10-16 181935" src="https://github.com/user-attachments/assets/1a0de148-d717-47dc-86af-a19a9533a912" />
 
 ### Connexion
 
