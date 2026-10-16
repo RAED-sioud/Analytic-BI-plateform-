@@ -1,0 +1,40 @@
+{
+  "name": "technova-platform",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.10.3"
+  },
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "react-scripts build",
+    "dev:frontend": "react-scripts start",
+    "dev:backend": "node backend/server.js",
+    "install:backend": "cd backend && npm install",
+    "postinstall": "cd backend && npm install"
+  },
+  "proxy": "http://localhost:5000",
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
